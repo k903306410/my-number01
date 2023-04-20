@@ -14,7 +14,7 @@ public class TextServlet extends HttpServlet {
        
   
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().append("just text happy");
+		response.getWriter().append("gogogo,go to sleep");
 	}
 
 }
